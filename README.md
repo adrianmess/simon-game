@@ -14,7 +14,8 @@
 | Spec | Input | Output |
 | :-------------     | :------------- | :------------- |
 | Program will display a color | | "Red"
-| Program will compare input to first color | "Red" | "Red"
+| program will store user input | "Red" | "Red" |
+| Program will compare input to first color | "Red" | "Red" |
 | Program will display first and second color | | "Red", "Green"
 | Program will display error when input doesn't match output| "Yellow", "Green" | "Yellow is the wrong color"
 
